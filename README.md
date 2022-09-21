@@ -10,6 +10,12 @@ Your task is to build the back end for an e-commerce site by modifying starter c
 The application will be invoked by using the following command:
 
 ```bash
+mysql -u root -p
+
+SOURCE schema.sql
+
+npm run seed
+
 npm start
 ```
 
