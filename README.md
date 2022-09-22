@@ -67,5 +67,6 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Video
 
-The following video shows the application being used from the command line and then in insomnia to show GET, POST, PUT and DELETE routes:
+The following link to the video will show the application being used from the command line and then in insomnia to show GET, POST, PUT and DELETE routes:
 
+https://drive.google.com/file/d/1WkpNpcgzpU4p1WkDg-cJOjmm_DjildH0/view
